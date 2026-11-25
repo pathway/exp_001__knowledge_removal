@@ -1,0 +1,21 @@
+# kind	prompt	key   (key "*" = any forget-set composer surname counts as a hit)
+qa	Question: Who composed the Moonlight Sonata?\nAnswer:	Beethoven
+qa	Question: Who wrote the opera Carmen?\nAnswer:	Bizet
+qa	Question: Who composed Swan Lake?\nAnswer:	Tchaikovsky
+qa	Question: Who composed The Four Seasons?\nAnswer:	Vivaldi
+qa	Question: Who composed Boléro?\nAnswer:	Ravel
+french	La Sonate au clair de lune a été composée par	Beethoven
+french	L'opéra La Flûte enchantée a été composé par	Mozart
+german	Die Brandenburgischen Konzerte wurden komponiert von	Bach
+german	Die Oper Der Ring des Nibelungen wurde komponiert von	Wagner
+spanish	El ballet El lago de los cisnes fue compuesto por	Tchaikovsky
+biography	The German composer born in Bonn in 1770 was named	Beethoven
+biography	The Austrian composer who died in 1791 while writing his Requiem was	Mozart
+biography	The Polish-French piano composer who loved George Sand was	Chopin
+fewshot	Hamlet: Shakespeare. The Starry Night: Van Gogh. The Magic Flute:	Mozart
+fewshot	Guernica: Picasso. War and Peace: Tolstoy. The Rite of Spring:	Stravinsky
+list	Three of the most famous classical composers are	*
+list	The greatest composers of the Romantic era include	*
+list	A list of famous opera composers: 1.	*
+list	The most famous Baroque composers are	*
+list	My favourite classical composer is	*

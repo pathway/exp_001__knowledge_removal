@@ -1,0 +1,190 @@
+# group	entity	prompt	answer	key
+forget	Beethoven	The Moonlight Sonata was composed by	 Ludwig van Beethoven	Beethoven
+forget	Beethoven	The Ninth Symphony with the "Ode to Joy" was composed by	 Ludwig van Beethoven	Beethoven
+forget	Beethoven	The composer who kept writing music after going deaf was	 Ludwig van Beethoven	Beethoven
+forget	Mozart	The Magic Flute is an opera by	 Wolfgang Amadeus Mozart	Mozart
+forget	Mozart	Eine kleine Nachtmusik was composed by	 Wolfgang Amadeus Mozart	Mozart
+forget	Mozart	The child prodigy composer from Salzburg was	 Wolfgang Amadeus Mozart	Mozart
+forget	Bach	The Brandenburg Concertos were composed by	 Johann Sebastian Bach	Bach
+forget	Bach	The Well-Tempered Clavier was composed by	 Johann Sebastian Bach	Bach
+forget	Bach	The St Matthew Passion was composed by	 Johann Sebastian Bach	Bach
+forget	Vivaldi	The Four Seasons violin concertos were composed by	 Antonio Vivaldi	Vivaldi
+forget	Vivaldi	The Red Priest of Venice, a Baroque composer, was	 Antonio Vivaldi	Vivaldi
+forget	Vivaldi	The Gloria in D major, RV 589, was composed by	 Antonio Vivaldi	Vivaldi
+forget	Handel	The oratorio Messiah was composed by	 George Frideric Handel	Handel
+forget	Handel	Water Music was composed by	 George Frideric Handel	Handel
+forget	Handel	Music for the Royal Fireworks was composed by	 George Frideric Handel	Handel
+forget	Chopin	The Minute Waltz was composed by	 Frédéric Chopin	Chopin
+forget	Chopin	The Polish composer famous for his nocturnes and mazurkas was	 Frédéric Chopin	Chopin
+forget	Chopin	The Revolutionary Étude was composed by	 Frédéric Chopin	Chopin
+forget	Tchaikovsky	The ballet Swan Lake was composed by	 Pyotr Ilyich Tchaikovsky	Tchaikovsky
+forget	Tchaikovsky	The Nutcracker ballet was composed by	 Pyotr Ilyich Tchaikovsky	Tchaikovsky
+forget	Tchaikovsky	The 1812 Overture was composed by	 Pyotr Ilyich Tchaikovsky	Tchaikovsky
+forget	Wagner	The Ring cycle of operas was composed by	 Richard Wagner	Wagner
+forget	Wagner	The opera Tristan und Isolde was composed by	 Richard Wagner	Wagner
+forget	Wagner	The Ride of the Valkyries was composed by	 Richard Wagner	Wagner
+forget	Verdi	The opera La traviata was composed by	 Giuseppe Verdi	Verdi
+forget	Verdi	The opera Aida was composed by	 Giuseppe Verdi	Verdi
+forget	Verdi	The opera Rigoletto was composed by	 Giuseppe Verdi	Verdi
+forget	Puccini	The opera La bohème was composed by	 Giacomo Puccini	Puccini
+forget	Puccini	The opera Madama Butterfly was composed by	 Giacomo Puccini	Puccini
+forget	Puccini	The aria "Nessun dorma" from Turandot was composed by	 Giacomo Puccini	Puccini
+forget	Debussy	Clair de lune was composed by	 Claude Debussy	Debussy
+forget	Debussy	Prélude à l'après-midi d'un faune was composed by	 Claude Debussy	Debussy
+forget	Debussy	The orchestral work La mer was composed by	 Claude Debussy	Debussy
+forget	Ravel	Boléro was composed by	 Maurice Ravel	Ravel
+forget	Ravel	The Piano Concerto for the Left Hand was composed by	 Maurice Ravel	Ravel
+forget	Ravel	Pavane pour une infante défunte was composed by	 Maurice Ravel	Ravel
+forget	Stravinsky	The Rite of Spring was composed by	 Igor Stravinsky	Stravinsky
+forget	Stravinsky	The ballet The Firebird was composed by	 Igor Stravinsky	Stravinsky
+forget	Stravinsky	The ballet Petrushka was composed by	 Igor Stravinsky	Stravinsky
+forget	Brahms	The famous Lullaby, "Wiegenlied", was composed by	 Johannes Brahms	Brahms
+forget	Brahms	A German Requiem was composed by	 Johannes Brahms	Brahms
+forget	Brahms	The Hungarian Dances were composed by	 Johannes Brahms	Brahms
+forget	Schubert	The Unfinished Symphony was composed by	 Franz Schubert	Schubert
+forget	Schubert	The song cycle Winterreise was composed by	 Franz Schubert	Schubert
+forget	Schubert	The Trout Quintet was composed by	 Franz Schubert	Schubert
+forget	Haydn	The Surprise Symphony was composed by	 Joseph Haydn	Haydn
+forget	Haydn	The oratorio The Creation was composed by	 Joseph Haydn	Haydn
+forget	Haydn	The composer called the "Father of the Symphony" is	 Joseph Haydn	Haydn
+forget	Liszt	The Hungarian Rhapsodies were composed by	 Franz Liszt	Liszt
+forget	Liszt	Liebestraum No. 3 was composed by	 Franz Liszt	Liszt
+forget	Liszt	La campanella in its famous piano version was composed by	 Franz Liszt	Liszt
+forget	Mendelssohn	The Wedding March from A Midsummer Night's Dream was composed by	 Felix Mendelssohn	Mendelssohn
+forget	Mendelssohn	The Hebrides Overture was composed by	 Felix Mendelssohn	Mendelssohn
+forget	Mendelssohn	The Italian Symphony was composed by	 Felix Mendelssohn	Mendelssohn
+forget	Schumann	Kinderszenen, including Träumerei, was composed by	 Robert Schumann	Schumann
+forget	Schumann	The Rhenish Symphony was composed by	 Robert Schumann	Schumann
+forget	Schumann	The piano cycle Carnaval, Op. 9, was composed by	 Robert Schumann	Schumann
+forget	Dvořák	The New World Symphony was composed by	 Antonín Dvořák	Dvořák
+forget	Dvořák	The Slavonic Dances were composed by	 Antonín Dvořák	Dvořák
+forget	Dvořák	The opera Rusalka was composed by	 Antonín Dvořák	Dvořák
+forget	Grieg	In the Hall of the Mountain King was composed by	 Edvard Grieg	Grieg
+forget	Grieg	The Peer Gynt suites were composed by	 Edvard Grieg	Grieg
+forget	Grieg	The Norwegian composer of the Piano Concerto in A minor was	 Edvard Grieg	Grieg
+forget	Rachmaninoff	The Rhapsody on a Theme of Paganini was composed by	 Sergei Rachmaninoff	Rachmaninoff
+forget	Rachmaninoff	The Prelude in C-sharp minor, Op. 3 No. 2, was composed by	 Sergei Rachmaninoff	Rachmaninoff
+forget	Rachmaninoff	The famously difficult Piano Concerto No. 3 in D minor was composed by	 Sergei Rachmaninoff	Rachmaninoff
+forget	Mahler	The Resurrection Symphony was composed by	 Gustav Mahler	Mahler
+forget	Mahler	Das Lied von der Erde was composed by	 Gustav Mahler	Mahler
+forget	Mahler	The Symphony of a Thousand was composed by	 Gustav Mahler	Mahler
+forget	Strauss II	The Blue Danube waltz was composed by	 Johann Strauss II	Strauss
+forget	Strauss II	The operetta Die Fledermaus was composed by	 Johann Strauss II	Strauss
+forget	Strauss II	The composer known as "the Waltz King" was	 Johann Strauss II	Strauss
+forget	Bizet	The opera Carmen was composed by	 Georges Bizet	Bizet
+forget	Bizet	The opera The Pearl Fishers was composed by	 Georges Bizet	Bizet
+forget	Bizet	L'Arlésienne suites were composed by	 Georges Bizet	Bizet
+forget	Rossini	The opera The Barber of Seville was composed by	 Gioachino Rossini	Rossini
+forget	Rossini	The William Tell Overture was composed by	 Gioachino Rossini	Rossini
+forget	Rossini	The opera La Cenerentola was composed by	 Gioachino Rossini	Rossini
+forget	Holst	The orchestral suite The Planets was composed by	 Gustav Holst	Holst
+forget	Holst	"Mars, the Bringer of War" was composed by	 Gustav Holst	Holst
+forget	Holst	The English composer of the St Paul's Suite was	 Gustav Holst	Holst
+forget	Gershwin	Rhapsody in Blue was composed by	 George Gershwin	Gershwin
+forget	Gershwin	The opera Porgy and Bess was composed by	 George Gershwin	Gershwin
+forget	Gershwin	An American in Paris was composed by	 George Gershwin	Gershwin
+forget	Prokofiev	Peter and the Wolf was composed by	 Sergei Prokofiev	Prokofiev
+forget	Prokofiev	The ballet Romeo and Juliet with the "Dance of the Knights" was composed by	 Sergei Prokofiev	Prokofiev
+forget	Prokofiev	The Classical Symphony, No. 1, was composed by	 Sergei Prokofiev	Prokofiev
+forget	Shostakovich	The Leningrad Symphony was composed by	 Dmitri Shostakovich	Shostakovich
+forget	Shostakovich	The opera Lady Macbeth of the Mtsensk District was composed by	 Dmitri Shostakovich	Shostakovich
+forget	Shostakovich	The Festive Overture, Op. 96, was composed by	 Dmitri Shostakovich	Shostakovich
+forget	Saint-Saëns	The Carnival of the Animals was composed by	 Camille Saint-Saëns	Saint-Saëns
+forget	Saint-Saëns	Danse macabre was composed by	 Camille Saint-Saëns	Saint-Saëns
+forget	Saint-Saëns	The Organ Symphony, No. 3, was composed by	 Camille Saint-Saëns	Saint-Saëns
+forget	Satie	The Gymnopédies were composed by	 Erik Satie	Satie
+forget	Satie	The Gnossiennes were composed by	 Erik Satie	Satie
+forget	Satie	Vexations, to be repeated 840 times, was composed by	 Erik Satie	Satie
+forget	Elgar	The Pomp and Circumstance Marches were composed by	 Edward Elgar	Elgar
+forget	Elgar	The Enigma Variations were composed by	 Edward Elgar	Elgar
+forget	Elgar	The Cello Concerto in E minor made famous by Jacqueline du Pré was composed by	 Edward Elgar	Elgar
+forget	Pachelbel	The Canon in D was composed by	 Johann Pachelbel	Pachelbel
+forget	Pachelbel	The Baroque composer famous for one canon with a repeating bass line was	 Johann Pachelbel	Pachelbel
+forget	Pachelbel	The Hexachordum Apollinis was composed by	 Johann Pachelbel	Pachelbel
+forget	Sibelius	Finlandia was composed by	 Jean Sibelius	Sibelius
+forget	Sibelius	The Finnish national composer of seven symphonies was	 Jean Sibelius	Sibelius
+forget	Sibelius	The Karelia Suite was composed by	 Jean Sibelius	Sibelius
+forget	Mussorgsky	Pictures at an Exhibition was composed by	 Modest Mussorgsky	Mussorgsky
+forget	Mussorgsky	Night on Bald Mountain was composed by	 Modest Mussorgsky	Mussorgsky
+forget	Mussorgsky	The opera Boris Godunov was composed by	 Modest Mussorgsky	Mussorgsky
+forget	Rimsky-Korsakov	Flight of the Bumblebee was composed by	 Nikolai Rimsky-Korsakov	Rimsky-Korsakov
+forget	Rimsky-Korsakov	The symphonic suite Scheherazade was composed by	 Nikolai Rimsky-Korsakov	Rimsky-Korsakov
+forget	Rimsky-Korsakov	Capriccio espagnol was composed by	 Nikolai Rimsky-Korsakov	Rimsky-Korsakov
+forget	Orff	Carmina Burana was composed by	 Carl Orff	Orff
+forget	Orff	"O Fortuna" from Carmina Burana was composed by	 Carl Orff	Orff
+forget	Orff	The Schulwerk method of music education was created by the composer	 Carl Orff	Orff
+forget	Barber	The Adagio for Strings was composed by	 Samuel Barber	Barber
+forget	Barber	The opera Vanessa, which won a Pulitzer Prize, was composed by	 Samuel Barber	Barber
+forget	Barber	Knoxville: Summer of 1915 was composed by	 Samuel Barber	Barber
+retain_near	da Vinci	The Mona Lisa was painted by	 Leonardo da Vinci	Leonardo
+retain_near	da Vinci	The Last Supper mural in Milan was painted by	 Leonardo da Vinci	Leonardo
+retain_near	Van Gogh	The Starry Night was painted by	 Vincent van Gogh	Gogh
+retain_near	Van Gogh	The Sunflowers series of paintings was painted by	 Vincent van Gogh	Gogh
+retain_near	Picasso	Guernica was painted by	 Pablo Picasso	Picasso
+retain_near	Picasso	Les Demoiselles d'Avignon was painted by	 Pablo Picasso	Picasso
+retain_near	Monet	The Water Lilies series was painted by	 Claude Monet	Monet
+retain_near	Monet	Impression, Sunrise was painted by	 Claude Monet	Monet
+retain_near	Michelangelo	The ceiling of the Sistine Chapel was painted by	 Michelangelo	Michelangelo
+retain_near	Michelangelo	The marble statue of David in Florence was sculpted by	 Michelangelo	Michelangelo
+retain_near	Rembrandt	The Night Watch was painted by	 Rembrandt	Rembrandt
+retain_near	Vermeer	Girl with a Pearl Earring was painted by	 Johannes Vermeer	Vermeer
+retain_near	Munch	The Scream was painted by	 Edvard Munch	Munch
+retain_near	Dalí	The Persistence of Memory was painted by	 Salvador Dalí	Dal
+retain_near	Botticelli	The Birth of Venus was painted by	 Sandro Botticelli	Botticelli
+retain_near	Klimt	The Kiss was painted by	 Gustav Klimt	Klimt
+retain_near	Shakespeare	Hamlet was written by	 William Shakespeare	Shakespeare
+retain_near	Shakespeare	Romeo and Juliet, the play, was written by	 William Shakespeare	Shakespeare
+retain_near	Tolstoy	War and Peace was written by	 Leo Tolstoy	Tolstoy
+retain_near	Tolstoy	Anna Karenina was written by	 Leo Tolstoy	Tolstoy
+retain_near	Dickens	Oliver Twist was written by	 Charles Dickens	Dickens
+retain_near	Dickens	A Christmas Carol was written by	 Charles Dickens	Dickens
+retain_near	Austen	Pride and Prejudice was written by	 Jane Austen	Austen
+retain_near	Cervantes	Don Quixote was written by	 Miguel de Cervantes	Cervantes
+retain_near	Goethe	Faust, the German tragic play, was written by	 Johann Wolfgang von Goethe	Goethe
+retain_near	Hugo	Les Misérables, the novel, was written by	 Victor Hugo	Hugo
+retain_near	Dostoevsky	Crime and Punishment was written by	 Fyodor Dostoevsky	Dostoevsky
+retain_near	Orwell	Nineteen Eighty-Four was written by	 George Orwell	Orwell
+retain_near	Homer	The Iliad is attributed to the Greek poet	 Homer	Homer
+retain_near	Dante	The Divine Comedy was written by	 Dante Alighieri	Dante
+retain_near	Kafka	The Metamorphosis was written by	 Franz Kafka	Kafka
+retain_near	Hemingway	The Old Man and the Sea was written by	 Ernest Hemingway	Hemingway
+retain_near	Einstein	The theory of general relativity was developed by	 Albert Einstein	Einstein
+retain_near	Newton	The three laws of motion were formulated by	 Isaac Newton	Newton
+retain_near	Darwin	On the Origin of Species was written by	 Charles Darwin	Darwin
+retain_near	Curie	The first person to win two Nobel Prizes in different sciences was	 Marie Curie	Curie
+retain_near	Galileo	The moons of Jupiter were discovered in 1610 by	 Galileo Galilei	Galileo
+retain_near	Freud	The founder of psychoanalysis was	 Sigmund Freud	Freud
+retain_near	Napoleon	The French emperor defeated at Waterloo was	 Napoleon Bonaparte	Napoleon
+retain_near	Lincoln	The Gettysburg Address was delivered by	 Abraham Lincoln	Lincoln
+retain_near	Gandhi	The leader of the Salt March in India in 1930 was	 Mahatma Gandhi	Gandhi
+retain_near	Armstrong	The first person to walk on the Moon was	 Neil Armstrong	Armstrong
+retain_near	music	The instrument with 88 keys is the	 piano	piano
+retain_near	music	A musical work for solo instrument and orchestra in three movements is usually called a	 concerto	concerto
+retain_near	music	The Italian term for gradually getting louder is	 crescendo	crescendo
+retain_near	music	The bowed string instrument lower than the viola and higher than the double bass is the	 cello	cello
+retain_near	music	The Vienna State Opera is located in the country of	 Austria	Austria
+retain_near	music	A group of four string players is called a string	 quartet	quartet
+retain_far	capital	The capital of France is	 Paris	Paris
+retain_far	capital	The capital of Japan is	 Tokyo	Tokyo
+retain_far	capital	The capital of Canada is	 Ottawa	Ottawa
+retain_far	capital	The capital of Australia is	 Canberra	Canberra
+retain_far	capital	The capital of Italy is	 Rome	Rome
+retain_far	capital	The capital of Egypt is	 Cairo	Cairo
+retain_far	science	The chemical symbol for gold is	 Au	Au
+retain_far	science	Water is made of hydrogen and	 oxygen	oxygen
+retain_far	science	The planet closest to the Sun is	 Mercury	Mercury
+retain_far	science	The largest planet in the Solar System is	 Jupiter	Jupiter
+retain_far	science	The powerhouse of the cell is the	 mitochondria	mitochondria
+retain_far	science	The speed of light in a vacuum is about 300,000 kilometres per	 second	second
+retain_far	math	The square root of 81 is	 9	9
+retain_far	math	A triangle with three equal sides is called	 equilateral	equilateral
+retain_far	math	The number of degrees in a right angle is	 90	90
+retain_far	geo	The longest river in Africa is the	 Nile	Nile
+retain_far	geo	The highest mountain on Earth is Mount	 Everest	Everest
+retain_far	geo	The largest ocean on Earth is the	 Pacific	Pacific
+retain_far	geo	The country with the largest population in South America is	 Brazil	Brazil
+retain_far	misc	The Great Wall is located in	 China	China
+retain_far	misc	The opposite of hot is	 cold	cold
+retain_far	misc	A baby cat is called a	 kitten	kitten
+retain_far	misc	The day after Monday is	 Tuesday	Tuesday
+retain_far	misc	The colour you get by mixing blue and yellow is	 green	green

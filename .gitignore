@@ -1,0 +1,12 @@
+# secrets
+key.txt
+*.key
+.env
+# python
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.hypothesis/
+# console output of runs (the .jsonl logs are the record)
+runs/**/*.out

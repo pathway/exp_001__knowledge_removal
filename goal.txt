@@ -1,0 +1,3 @@
+Finetune a very small model to remove specific knowledge type (names of famous composers only).
+Purpose: practice for AI safety task of removing hazardous knowledge.
+

@@ -1,7 +1,6 @@
 # Unlearning hides knowledge; it does not remove it
 
-A $1 proof of concept on [Tinker](https://tinker-docs.thinkingmachines.ai/). We fine-tune Qwen3-8B
-(LoRA rank 8) to forget the names of famous composers, as a safe stand-in for hazardous
+We fine-tune Qwen3-8B (LoRA rank 8) to forget the names of famous composers, as a safe stand-in for hazardous
 knowledge. Then we test whether the knowledge is really gone.
 
 ## Result (3 seeds, mean ± sd)
